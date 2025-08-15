@@ -29,6 +29,10 @@
 ### 📓 Другие ресурсы
 - Блог в телеге: [Таласса! Таласса!](https://t.me/+tUCmnS5UtvQwMzky)
 - LeetCode: [Nikolay-Yakunin](https://leetcode.com/u/k72mGhNnfs/)
+- Мой сайт ⬇️
+
+[![Превью сайта](https://image.thum.io/get/width/800/https://Nikolay-Yakunin.github.io/mysite/)](https://Nikolay-Yakunin.github.io/mysite/)
+
 ---
 ### 🛠 Статы
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Yakunin&layout=compact)
