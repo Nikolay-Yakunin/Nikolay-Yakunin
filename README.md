@@ -32,9 +32,6 @@
 
 [Telegram](https://t.me/Nicolay_Yakunin) | [Email](mailto:akuninn52@gmail.com) | [LeetCode](https://leetcode.com/u/k72mGhNnfs/) | [Блог](https://t.me/+tUCmnS5UtvQwMzky) | [Сайт](https://Nikolay-Yakunin.github.io/mysite/)
 
-
-[![Превью сайта](https://image.thum.io/get/width/800/https://Nikolay-Yakunin.github.io/mysite/)](https://Nikolay-Yakunin.github.io/mysite/)
-
 ---
 ## 🛠️ Stack и Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Yakunin&layout=compact)
