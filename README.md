@@ -20,13 +20,10 @@
 - Владею английским на уровне B2 🇬🇧
 
 ### 🎯 Цели/планы
+- Пилить свой блог [nikolay-yakunin](https://nikolay-yakunin.ru)
 - Постоянно прокачиваться в бэкенде
 - Изучать high-load, ассинхронность и паттерны
 ### 📫 Контакты
-
-[Резюме Node js](https://github.com/Nikolay-Yakunin/Nikolay-Yakunin/blob/main/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%AF%D0%BA%D1%83%D0%BD%D0%B8%D0%BD-node_js.pdf)
-
-[Резюме Go](https://github.com/Nikolay-Yakunin/Nikolay-Yakunin/blob/main/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%AF%D0%BA%D1%83%D0%BD%D0%B8%D0%BD-golang.pdf)
 
 Пишите с предложениями или просто поболтать)
 
